@@ -1,0 +1,29 @@
+[
+  {
+    "name": "question_only",
+    "n": 1319,
+    "format_rate": 0.21455648218347234,
+    "answer_accuracy": 0.002274450341167551,
+    "category1": 3,
+    "category2": 280,
+    "category3": 1036
+  },
+  {
+    "name": "r1_zero",
+    "n": 1319,
+    "format_rate": 0.6345716451857468,
+    "answer_accuracy": 0.000758150113722517,
+    "category1": 1,
+    "category2": 836,
+    "category3": 482
+  },
+  {
+    "name": "r1_zero_three_shot",
+    "n": 1319,
+    "format_rate": 0.9423805913570887,
+    "answer_accuracy": 0.18347232752084913,
+    "category1": 242,
+    "category2": 1001,
+    "category3": 76
+  }
+]
